@@ -1,0 +1,16 @@
+Rows in original file: 10051
+Exact duplicate rows removed: 51
+Rows after de-duplication: 10000
+Rows eligible for revenue analysis: 9969
+Rows missing unit price: 31
+Date range: 2019-01-01 to 2023-12-31
+Total revenue: $1,209,726.38
+Estimated gross profit: $476,139.43
+Average transaction revenue: $121.35
+Units sold: 23,483
+Average rating: 5.83
+Top category: Fashion accessories ($489,480.90)
+Top branch: WALM009 ($25,688.34)
+Top city: Weslaco ($46,351.79)
+Most used payment method: Credit card (4256 transactions)
+Highest revenue year: 2019 ($307,587.38)
